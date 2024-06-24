@@ -6,10 +6,6 @@ A simple task management Node.js project with TypeScript.
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Description
 
